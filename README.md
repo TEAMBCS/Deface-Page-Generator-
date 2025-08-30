@@ -6,8 +6,11 @@ Deface Page Make Command
 
 # Installation Progress 😔 
 ```
+pkg install python
+pkg install git
+rm -rf Deface-Page-Generator-
 git clone https://github.com/TEAMBCS/Deface-Page-Generator-
-cd Deface-Page-Generator
+cd Deface-Page-Generator-
 python deface.py
 ```
 
